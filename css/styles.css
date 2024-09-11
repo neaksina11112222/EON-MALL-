@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    margin: auto;
+    box-sizing: border-box;
+}
+.conttainer{
+    padding: 10%;
+    width:70%;
+   
+     
+}
+.conttainer form{
+    width:100%;
+    box-shadow: 0px 3px 8px rgb(183, 173, 173);
+    padding: 20px;
+    margin-top: 5%;
+}
+.input-group{
+    font-size: 1.3rem;
+    padding: 10px;
+    width: 80%;
+    margin-top:2%;
+    color: #b0237b;
+
+} 
+.input-group input{
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-bottom: solid 2px gray;
+ 
+}
+h1 img{
+    width: 60px;
+ 
+}
+a{
+
+    display: flex;
+justify-content: end;
+color: #b0237b  ;
+padding: 5px;
+}
+textarea{
+    padding: 30px;
+    width: 100%;
+
+}
+.conttainer h1{
+margin-top: 10px;
+text-align: center;
+}
+.conttainer form .logo img{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+ .name-product{
+    padding:10px;
+    width: 80%;
+    
+    display: flex;
+    justify-content:space-around;
+ }
+ .line{
+    width: 250px;
+    height: 1vh;
+    background:#b0237b;
+ }
+ .cycle img{
+    width: 100px;
+ }
+.discount{
+    padding: 90px;
+    width:40%;
+    background:#b0237a4b;
+   
+    clip-path: polygon(100% 0, 52% 50%, 0 100%, 0 1%);
+    position: relative;
+    right:48%;
+    bottom:11px;
+    
+    
+}
+.text{
+    width: 80px;
+    height:80px;
+    border-radius: 100%;
+    background:#b0237b;
+    position: relative;
+    bottom: 40px;
+    color:#fff;
+    right:20px;
+}
+.text h1{
+ position: relative;
+ top: 13px;
+}
+.sell-product{
+    display: flex;
+    padding:8px;
+    width: 100%;
+    background:url(../images/shop-906722_640.jpg);
+    background-size: cover  ;
+    background-position: center;
+}
+
+.contact img{
+    width: 160px;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+}
+ 
+    
+
+
+
